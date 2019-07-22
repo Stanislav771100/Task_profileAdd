@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Butterfly+Kids|Catamaran|Fascinate&display=swap');
+.mainpage {
+    width: 100%;
+    height: 1500px;
+    background:#4e4e4e;
+    color: white;
+    margin: 0;
+    
+    
+
+}
+.block{
+    padding-top: 30px;
+    margin: 20px;
+    color: black;
+    width: 20%;
+    text-align: center;
+    
+}
+.mainpage h1{
+    text-align: center;
+    margin:0;
+    font-family: 'Catamaran', sans-serif;
+    text-transform: uppercase;
+    
+    
+    
+}
+header {
+    width: 100%;
+    height: 60px;
+    background: #222222;
+    border-bottom: #FFF 1px solid;
+    
+    
+    
+}
+.profiles_content {
+    width: 100%;
+    height: 1000px;
+    background: #FFF;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

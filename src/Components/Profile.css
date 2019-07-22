@@ -1,0 +1,14 @@
+.block_user {
+    border: 1px solid blueviolet;
+    color: black;
+    width: 200px;
+    text-align: center;
+    
+    
+}
+.name {
+    width: 100%;
+    background: #0080ff;
+    height: 40px;
+    margin: 0;
+}
